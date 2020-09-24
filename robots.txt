@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /risks
+
+Sitemap: https://www.hansolo.vc/sitemap.xml
